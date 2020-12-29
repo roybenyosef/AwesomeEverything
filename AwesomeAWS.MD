@@ -1,5 +1,6 @@
 ## Awesome tools
-* https://github.com/dynamoose/dynamoose
+* Dynamoose is a modeling tool for Amazon's DynamoDB (inspired by Mongoose) - https://github.com/dynamoose/dynamoose
+* Find how much bandwidth "Up to" actually means - https://ec2throughput.info/
 
 
 ## Awesome AWS Projects and Code
