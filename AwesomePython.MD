@@ -1,5 +1,5 @@
 ## Awesome Python Libraries
-* Data validation - pydantic
+* Data validation - pydantic - https://pydantic-docs.helpmanual.io/
 * 
 
 ## Awesome Python Know-how 
