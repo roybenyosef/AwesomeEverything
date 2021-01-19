@@ -18,7 +18,7 @@
 ## Awesome reads
 * Python asterisks - https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
 * [Unlock the 4 Mysteries of self in Python](https://link.medium.com/P96rqnmH44)
-* 
+* https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a
 
 ## Awesome interview questions
 * https://levelup.gitconnected.com/50-python-interview-question-and-answers-404e08bc054c
