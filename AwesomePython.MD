@@ -1,3 +1,6 @@
+## Cheat Sheets
+* https://gto76.github.io/python-cheatsheet/
+
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
 * 
