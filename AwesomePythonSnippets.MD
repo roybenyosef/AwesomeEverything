@@ -9,5 +9,4 @@ s = "abcdefghijklmnop"
 step = 2
 s = "abcdefghijklmnop"
 s2 = ":".join(s[i:i+step] for i in range(0, len(s), step))
-s2
 ```
