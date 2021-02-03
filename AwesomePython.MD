@@ -30,3 +30,4 @@
 * https://dev.to/kalebu/how-to-perform-real-time-vehicle-detection-in-python-4i9h
 * https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0
 * Develop Data Visualization Interfaces in Python With Dash - https://realpython.com/python-dash/
+* https://dev.to/devunf/getting-familiarised-with-image-processing-implementation-using-pil-3el6
