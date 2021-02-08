@@ -1,1 +1,5 @@
 * Top big data technologies: https://www.edureka.co/blog/top-big-data-technologies/
+* https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin/
+  * https://stackoverflow.com/questions/49986235/how-to-convert-many-csv-files-to-parquet-using-aws-glue
+  
+ 
