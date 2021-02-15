@@ -23,6 +23,7 @@
 * [Unlock the 4 Mysteries of self in Python](https://link.medium.com/P96rqnmH44)
 * https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a
 * https://medium.com/better-programming/use-id-to-understand-6-key-concepts-in-python-73e0bbd461ec
+* Getting started with python: https://cjolowicz.github.io/posts/hypermodern-python-01-setup/
 
 ## Awesome interview questions
 * https://levelup.gitconnected.com/50-python-interview-question-and-answers-404e08bc054c
