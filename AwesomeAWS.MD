@@ -17,6 +17,7 @@
 * https://serverlessland.com/
 * Lambda Power Tools: https://awslabs.github.io/aws-lambda-powertools-python/, [Validator](https://awslabs.github.io/aws-lambda-powertools-python/utilities/parser/), [github](https://github.com/awslabs/aws-lambda-powertools-python)
 * https://github.com/epsagon/lambda-memory-performance-benchmark
+* tips for warming lambdas - https://www.npmjs.com/package/lambda-warmer
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
