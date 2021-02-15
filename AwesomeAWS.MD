@@ -20,6 +20,8 @@
 * Warming lambdas
   * https://www.npmjs.com/package/lambda-warmer
   * https://pypi.org/project/lambda-warmer-py/
+* https://github.com/alexcasalboni/aws-lambda-power-tuning 
+* https://lumigo.io/aws-lambda-performance-optimization/
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
