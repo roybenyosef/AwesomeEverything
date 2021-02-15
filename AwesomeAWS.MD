@@ -22,6 +22,7 @@
   * https://pypi.org/project/lambda-warmer-py/
 * https://github.com/alexcasalboni/aws-lambda-power-tuning 
 * https://lumigo.io/aws-lambda-performance-optimization/
+* Get least priviledged IAM policy by lambda code: https://github.com/puresec/serverless-puresec-cli
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
