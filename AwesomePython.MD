@@ -3,7 +3,7 @@
 
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
-* 
+* Arrow - time, date all in one: https://arrow.readthedocs.io/en/latest/
 
 ## Awesome Python Know-how 
 * Concurrency 
