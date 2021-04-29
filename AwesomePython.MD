@@ -4,6 +4,7 @@
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
 * Arrow - time, date all in one: https://arrow.readthedocs.io/en/latest/
+* Progress bar lib: https://github.com/tqdm/tqdm
 
 ## Awesome Python Know-how 
 * Concurrency 
