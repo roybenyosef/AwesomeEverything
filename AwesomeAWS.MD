@@ -40,3 +40,7 @@
 * 
 ## Awesome re:*
 * https://www.infoq.com/news/2020/12/aws-reinvent-2020/
+
+## Which AWS DB?
+* [Nice flow diagram](https://github.com/roybenyosef/AwesomeEverything/blob/main/which-aws-db.jpeg)
+
