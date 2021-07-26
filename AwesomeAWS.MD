@@ -44,3 +44,5 @@
 ## Which AWS DB?
 * [Nice flow diagram](https://github.com/roybenyosef/AwesomeEverything/blob/main/which-aws-db.jpeg)
 
+## Other Clouds
+* Azure-AWS Service comparison: https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
