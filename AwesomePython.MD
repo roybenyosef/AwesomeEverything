@@ -1,6 +1,3 @@
-## Canon
-https://mail.python.org/pipermail/python-3000/2007-May/007414.html
-
 ## Cheat Sheets
 * https://gto76.github.io/python-cheatsheet/
 
@@ -37,3 +34,7 @@ https://mail.python.org/pipermail/python-3000/2007-May/007414.html
 * https://towardsdatascience.com/implementing-grpc-server-using-python-9dc42e8daea0
 * Develop Data Visualization Interfaces in Python With Dash - https://realpython.com/python-dash/
 * https://dev.to/devunf/getting-familiarised-with-image-processing-implementation-using-pil-3el6
+
+## Canon
+Guido on the future of GIL:
+https://mail.python.org/pipermail/python-3000/2007-May/007414.html
