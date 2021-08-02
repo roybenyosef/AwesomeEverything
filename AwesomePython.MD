@@ -1,3 +1,6 @@
+## Canon
+https://mail.python.org/pipermail/python-3000/2007-May/007414.html
+
 ## Cheat Sheets
 * https://gto76.github.io/python-cheatsheet/
 
