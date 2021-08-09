@@ -24,3 +24,8 @@ hex(nx)
 bin(nb)
 
 ```
+
+## Sum of digits: `sum_of_digits = lambda x: sum(map(int, str(x)))`
+## cast items in list: `list(map(int, ['1', '2', '3']))`
+## Flatten list with sublists: `flattened_list = [item for sublist in l for item in sublist]`
+## Swap key-value in dict: `staff = {i:j for j, i in staff.items()}`
