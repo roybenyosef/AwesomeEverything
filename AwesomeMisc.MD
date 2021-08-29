@@ -7,3 +7,6 @@ on all your users' devices
 ## APIs
 * API guru - https://apis.guru/
 * OpenAPI generator - https://github.com/OpenAPITools/openapi-generator
+* https://editor.swagger.io/
+* https://www.programmableweb.com/
+* 
