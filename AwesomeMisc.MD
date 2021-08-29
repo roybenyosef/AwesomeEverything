@@ -9,4 +9,4 @@ on all your users' devices
 * OpenAPI generator - https://github.com/OpenAPITools/openapi-generator
 * https://editor.swagger.io/
 * https://www.programmableweb.com/
-* 
+* collaborate on API dev: https://stoplight.io/
