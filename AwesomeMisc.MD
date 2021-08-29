@@ -10,3 +10,5 @@ on all your users' devices
 * https://editor.swagger.io/
 * https://www.programmableweb.com/
 * collaborate on API dev: https://stoplight.io/
+* linter: http://opensource.zalando.com/zally/
+* 
