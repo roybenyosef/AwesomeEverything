@@ -12,3 +12,8 @@ on all your users' devices
 * collaborate on API dev: https://stoplight.io/
 * linter: http://opensource.zalando.com/zally/
 * 
+
+## Project Management
+* https://clickup.com/
+* Github projects...
+* Trello
