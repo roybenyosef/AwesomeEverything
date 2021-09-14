@@ -40,3 +40,6 @@ bin(nb)
 ### Swap key-value in dict: 
 
 `staff = {i:j for j, i in staff.items()}`
+
+### python utility function retry with exponential backoff
+https://keestalkstech.com/2021/03/python-utility-function-retry-with-exponential-backoff/
