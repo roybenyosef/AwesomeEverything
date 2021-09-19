@@ -4,6 +4,9 @@ on all your users' devices
     * https://www.figma.com/
     * https://zeplin.io/
 
+## Blogs, Articles
+* https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
+
 ## APIs
 * API guru - https://apis.guru/
 * OpenAPI generator - https://github.com/OpenAPITools/openapi-generator
