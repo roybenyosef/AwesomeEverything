@@ -51,4 +51,8 @@
 * Another Day, Another Billion Packets (VPC, EC2): https://www.youtube.com/watch?v=St3SE4LWhKo
 * Playlist for important videos: https://www.youtube.com/playlist?list=PL_RVC-cMNyYTz8zlxq117O1bfji-knooI
 * Securing ECS: https://www.youtube.com/watch?v=nKhtSmYRfxs
+
+
+## Awesome AWS Projects
+* https://aws.amazon.com/getting-started/hands-on/build-log-analytics-solution/services-costs/
 * 
