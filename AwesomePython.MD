@@ -1,5 +1,6 @@
 ## Cheat Sheets
 * https://gto76.github.io/python-cheatsheet/
+* https://dev.to/abhirajb/the-ultimate-python-cheatsheet-56g7
 
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
