@@ -2,6 +2,9 @@
 * https://gto76.github.io/python-cheatsheet/
 * https://dev.to/abhirajb/the-ultimate-python-cheatsheet-56g7
 
+## Awesome Projects
+* https://github.com/agoragames/leaderboard-python
+
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
 * Arrow - time, date all in one: https://arrow.readthedocs.io/en/latest/
@@ -39,3 +42,4 @@
 ## Canon
 Guido on the future of GIL:
 https://mail.python.org/pipermail/python-3000/2007-May/007414.html
+
