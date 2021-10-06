@@ -20,3 +20,7 @@ on all your users' devices
 * https://clickup.com/
 * Github projects...
 * Trello
+
+## Libraries
+* - anonymize PII library by ms (regex and nlp) - https://github.com/microsoft/presidio (like using aws comprehend)
+* 
