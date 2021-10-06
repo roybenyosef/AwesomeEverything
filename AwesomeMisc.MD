@@ -22,5 +22,5 @@ on all your users' devices
 * Trello
 
 ## Libraries
-* - anonymize PII library by ms (regex and nlp) - https://github.com/microsoft/presidio (like using aws comprehend)
-* 
+* anonymize PII library by ms (regex and nlp) - https://github.com/microsoft/presidio (like using aws comprehend)
+  * uses stacy - an open source for NLP, and you can replace the default models to get less noise if needed. 
