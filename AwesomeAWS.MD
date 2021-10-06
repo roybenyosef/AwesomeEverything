@@ -37,7 +37,9 @@
 ## Awesome AWS Blogs
 * Private Link for Lambda: https://aws.amazon.com/blogs/aws/new-use-aws-privatelink-to-access-aws-lambda-over-private-aws-network/
 * Feature toggles with lambda power tools: https://isenberg-ran.medium.com/aws-lambda-feature-toggles-made-simple-580b0c444233
+* https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/
 * 
+
 ## Awesome re:*
 * https://www.infoq.com/news/2020/12/aws-reinvent-2020/
 
