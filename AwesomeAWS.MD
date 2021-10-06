@@ -44,7 +44,8 @@
 * https://www.infoq.com/news/2020/12/aws-reinvent-2020/
 
 ## Which AWS DB?
-* [Nice flow diagram](https://github.com/roybenyosef/AwesomeEverything/blob/main/which-aws-db.jpeg)
+* [Nice flow diagram](https://github.com/roybenyosef/AwesomeEverything/blob/main/which-aws-db.jpeg) - missing MemoryDB :D
+* 
 
 ## Other Clouds
 * Azure-AWS Service comparison: https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
