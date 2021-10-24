@@ -24,3 +24,7 @@ on all your users' devices
 ## Libraries
 * anonymize PII library by ms (regex and nlp) - https://github.com/microsoft/presidio (like using aws comprehend)
   * uses stacy - an open source for NLP, and you can replace the default models to get less noise if needed. 
+
+## Virtualization
+* Lima VM: https://github.com/lima-vm/lima - The goal of Lima is to promote containerd including nerdctl (contaiNERD ctl) to Mac users, but Lima can be used for non-container applications as well.
+
