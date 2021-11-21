@@ -60,3 +60,7 @@
 ## Awesome AWS Projects
 * https://aws.amazon.com/getting-started/hands-on/build-log-analytics-solution/services-costs/
 * 
+
+# Horrible AWS
+* IPv6 on AWS whitepaper: I hope I never have to read this: https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf
+
