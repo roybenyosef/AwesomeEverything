@@ -56,11 +56,13 @@
 * Playlist for important videos: https://www.youtube.com/playlist?list=PL_RVC-cMNyYTz8zlxq117O1bfji-knooI
 * Securing ECS: https://www.youtube.com/watch?v=nKhtSmYRfxs
 
-
 ## Awesome AWS Projects
 * https://aws.amazon.com/getting-started/hands-on/build-log-analytics-solution/services-costs/
 * 
 
-# Horrible AWS
+## CICD
+* https://scalesec.com/blog/identity-federation-for-github-actions-on-aws/
+
+## Horrible AWS
 * IPv6 on AWS whitepaper (I hope I never have to read this): https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf
 
