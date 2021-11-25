@@ -28,3 +28,6 @@ on all your users' devices
 ## Virtualization
 * Lima VM: https://github.com/lima-vm/lima - The goal of Lima is to promote containerd including nerdctl (contaiNERD ctl) to Mac users, but Lima can be used for non-container applications as well.
 
+## Computer Science 
+* Free articles: https://sci-hub.mksa.top/
+* 
