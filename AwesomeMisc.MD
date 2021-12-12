@@ -14,7 +14,7 @@ on all your users' devices
 * https://www.programmableweb.com/
 * collaborate on API dev: https://stoplight.io/
 * linter: http://opensource.zalando.com/zally/
-* 
+* https://stoplight.io/
 
 ## Project Management
 * https://clickup.com/
