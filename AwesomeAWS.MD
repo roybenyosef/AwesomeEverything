@@ -25,6 +25,7 @@
 * https://lumigo.io/aws-lambda-performance-optimization/
 * Get least priviledged IAM policy by lambda code: https://github.com/puresec/serverless-puresec-cli
 * https://aws.amazon.com/blogs/compute/announcing-improved-vpc-networking-for-aws-lambda-functions/
+* AWS services mock lib - https://github.com/spulec/moto
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
