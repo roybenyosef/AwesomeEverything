@@ -42,6 +42,10 @@
 * https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/
 * 
 
+## Awesome AWS Videos
+* S3 security - https://www.youtube.com/watch?v=xFzJw6wJ8eY
+* Architect your serverless apps for hyperscaling: https://www.youtube.com/watch?v=GNUSdekIaMw, https://virtual.reinvent.awsevents.com/session-virtual/?v2477da705118cc74fd14460db021e1784e2eed5a7982c6482ec95cb2e86d259644b8741959f52a49e0e6908b82a9d860=68123CE134D220C29FD48B00F58D6FF92E063EB5A78D853133A569A2413C5985A00AEC91498516EB6E9D372E271C58C0
+
 ## Awesome re:*
 * https://www.infoq.com/news/2020/12/aws-reinvent-2020/
 
