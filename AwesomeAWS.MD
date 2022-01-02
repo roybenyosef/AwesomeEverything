@@ -7,7 +7,8 @@
 ## Awesome AWS Projects and Code
 * small utils, scripts, projects: https://github.com/awsbot-labs?tab=repositories
 * Print lambda event, context: https://gist.github.com/gene1wood/24e431859c7590c8c834
-
+* Custom resource helper: https://github.com/aws-cloudformation/custom-resource-helper
+* Feature flags for AWS: https://awslabs.github.io/aws-lambda-powertools-python/latest/utilities/feature_flags/
 
 ## Awesome AWS Services
 * Dynamodb blog: https://blog.yugabyte.com/11-things-you-wish-you-knew-before-starting-with-dynamodb
