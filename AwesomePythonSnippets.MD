@@ -43,3 +43,42 @@ bin(nb)
 
 ### python utility function retry with exponential backoff
 https://keestalkstech.com/2021/03/python-utility-function-retry-with-exponential-backoff/
+
+### Nice kata with generated functions/closures/lambdas:
+https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/solutions/python
+
+```
+id_ = lambda x: x
+number = lambda x: lambda f=id_: f(x)
+zero, one, two, three, four, five, six, seven, eight, nine = map(number, range(10))
+plus = lambda x: lambda y: y + x
+minus = lambda x: lambda y: y - x
+times = lambda x: lambda y: y * x
+divided_by = lambda x: lambda y: y / x
+```
+
+or:
+
+```
+num_names = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
+
+generated_func = '''
+def {}(op=(lambda x: x)):
+    return op({})
+'''
+
+def times(num):
+    return lambda x: x * num
+
+def divided_by(num):
+    return lambda x: x / num
+
+def plus(num):
+    return lambda x: x + num
+
+def minus(num):
+    return lambda x: x - num
+
+for i, num_name in enumerate(num_names):
+    exec(generated_func.format(num_name, i))
+```
