@@ -57,28 +57,5 @@ times = lambda x: lambda y: y * x
 divided_by = lambda x: lambda y: y / x
 ```
 
-or:
-
-```
-num_names = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
-
-generated_func = '''
-def {}(op=(lambda x: x)):
-    return op({})
-'''
-
-def times(num):
-    return lambda x: x * num
-
-def divided_by(num):
-    return lambda x: x / num
-
-def plus(num):
-    return lambda x: x + num
-
-def minus(num):
-    return lambda x: x - num
-
-for i, num_name in enumerate(num_names):
-    exec(generated_func.format(num_name, i))
-```
+See closures:
+https://www.programiz.com/python-programming/closure
