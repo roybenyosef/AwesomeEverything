@@ -1,6 +1,7 @@
 ## Blogs, Articles
 * https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
 * [Uncle Bob Martin - The Clean Coder](https://www.youtube.com/watch?v=NeXQEJNWO5w&t=440s)
+* DDD "quickly" - https://www.infoq.com/minibooks/domain-driven-design-quickly/
 
 ## APIs
 * API guru - https://apis.guru/
