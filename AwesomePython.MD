@@ -45,3 +45,5 @@
 Guido on the future of GIL:
 https://mail.python.org/pipermail/python-3000/2007-May/007414.html
 
+## Mocking boto3
+* simple mocking for boto3: https://sgillies.net/2017/10/19/mock-is-magic.html
