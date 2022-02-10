@@ -27,3 +27,7 @@
 ## Computer Science 
 * Free articles: https://sci-hub.mksa.top/
 * common problems solutions: https://dev.to/seanpgallivan/series/11116
+
+## Trainig, technical interviews prep.
+* https://www.algoexpert.io/purchase?product=systemsexpert
+* 
