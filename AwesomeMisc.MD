@@ -1,3 +1,7 @@
+## Collaboration
+* online whiteboard, many features - https://www.bluescape.com
+* draw.io of course
+
 ## Blogs, Articles
 * https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
 * [Uncle Bob Martin - The Clean Coder](https://www.youtube.com/watch?v=NeXQEJNWO5w&t=440s)
@@ -28,6 +32,6 @@
 * Free articles: https://sci-hub.mksa.top/
 * common problems solutions: https://dev.to/seanpgallivan/series/11116
 
-## Trainig, technical interviews prep.
+## Training, technical interviews prep.
 * https://www.algoexpert.io/purchase?product=systemsexpert
 * 
