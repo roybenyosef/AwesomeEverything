@@ -43,6 +43,7 @@
 * Feature toggles with lambda power tools: https://isenberg-ran.medium.com/aws-lambda-feature-toggles-made-simple-580b0c444233
 * https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/
 * Allowing Lambda from another account to invoke a Lambda: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-function-assume-iam-role/
+* https://aws-blog.de/2021/01/cross-account-resource-access-invalid-principal-in-policy.html
 
 ## Awesome AWS Videos
 * S3 security - https://www.youtube.com/watch?v=xFzJw6wJ8eY
