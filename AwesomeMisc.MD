@@ -7,6 +7,7 @@
 * [Uncle Bob Martin - The Clean Coder](https://www.youtube.com/watch?v=NeXQEJNWO5w&t=440s)
 * DDD "quickly" - https://www.infoq.com/minibooks/domain-driven-design-quickly/
 * [Nice githow SO q - branches, merges and more](https://stackoverflow.com/questions/71690310/pulling-from-remote-branch-while-on-another-branch-pull-origin-main-vs-pull/71701674#71701674)
+* dockerfile best practices: https://github.com/hexops/dockerfile
 
 ## APIs
 * API guru - https://apis.guru/
