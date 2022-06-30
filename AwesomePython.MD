@@ -1,3 +1,8 @@
+## Pro python projects
+* [Talk Python To Me] #362: Hypermodern Python Projects #talkPythonToMe https://podcastaddict.com/episode/138588134 
+* https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769
+  * https://github.com/cjolowicz/hypermodern-python   
+
 ## Cheat Sheets
 * https://gto76.github.io/python-cheatsheet/
 * https://dev.to/abhirajb/the-ultimate-python-cheatsheet-56g7
