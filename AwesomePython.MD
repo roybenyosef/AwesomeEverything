@@ -52,3 +52,6 @@ https://mail.python.org/pipermail/python-3000/2007-May/007414.html
 
 ## Mocking boto3
 * simple mocking for boto3: https://sgillies.net/2017/10/19/mock-is-magic.html
+
+## Tips
+* specifying a prerelease version: `package-name = {version="==1.0.dev7+testversions1", index="wahtever"}`
