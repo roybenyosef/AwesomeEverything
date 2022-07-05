@@ -46,6 +46,7 @@
 * https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/
 * Allowing Lambda from another account to invoke a Lambda: https://aws.amazon.com/premiumsupport/knowledge-center/lambda-function-assume-iam-role/
 * https://aws-blog.de/2021/01/cross-account-resource-access-invalid-principal-in-policy.html
+* SQS Fifo - [Does Ordered and Exactly Once Messaging Really Exist](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/#:~:text=Exactly-Once%20%E2%80%94%20Nothing%20in%20Life,and%20not%20delivered%20to%20consumers)
 
 ## Awesome AWS Videos
 * S3 security - https://www.youtube.com/watch?v=xFzJw6wJ8eY
