@@ -29,6 +29,7 @@
 * https://medium.com/better-programming/unlock-the-4-mysteries-of-self-in-python-d1913fbb8e16
 * exec, eval, etc. https://blog.finxter.com/python-exec/
 * create functions dynamically: https://blog.finxter.com/how-to-dynamically-create-a-function-in-python/
+* bytes-string conversion discussion: https://discuss.python.org/t/converting-integer-to-byte-string-problem-in-python-3/5058/5
 
 ## Awesome reads
 * Python asterisks - https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
