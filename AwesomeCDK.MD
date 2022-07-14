@@ -1,3 +1,6 @@
+# Blogs
+* https://www.sentiatechblog.com/decommissioning-as-code-overriding-logical-ids-when-resources-in-a-list-are
+
 # CDK Tools
 * https://cloudsnorkel.com/ - cdk github actions runners (among other things)
 
