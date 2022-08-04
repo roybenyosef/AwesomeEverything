@@ -37,3 +37,6 @@
 ## Training, technical interviews prep.
 * https://www.algoexpert.io/purchase?product=systemsexpert
 * 
+
+## Awesome git
+* awesome aliases: https://gist.github.com/natescode/aed203bb2826628993a67dfadb22302a
