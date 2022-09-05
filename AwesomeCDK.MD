@@ -3,6 +3,9 @@
 
 # CDK Tools
 * https://cloudsnorkel.com/ - cdk github actions runners (among other things)
+* CDK Diff tools
+  * https://github.com/karlderkaefer/cdk-notifier, [blog](https://betterprogramming.pub/improve-your-pull-request-experience-for-aws-cdk-projects-1fd5adb08bb3)  
+  * https://github.com/blackboard-innersource/gh-action-cdk-diff
 
 # Awesome code, examples
 * Great examples: https://github.com/TysonWorks/cdk-examples
