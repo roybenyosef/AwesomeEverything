@@ -32,6 +32,7 @@
 * AWS services mock lib - https://github.com/spulec/moto
 * Python Lambda multithreading [blog](https://medium.com/tech-carnot/understanding-multiprocessing-in-aws-lambda-with-python-6f50c11d57e4), [aws blog](https://aws.amazon.com/blogs/compute/parallel-processing-in-python-with-aws-lambda/)
 * [understanding-aws-lambda-scaling-and-throughput](https://aws.amazon.com/blogs/compute/understanding-aws-lambda-scaling-and-throughput/)
+* [Lambda code signing best practices](https://aws.amazon.com/blogs/security/best-practices-and-advanced-patterns-for-lambda-code-signing/)
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
