@@ -87,3 +87,8 @@
 * IPv6 on AWS whitepaper (I hope I never have to read this): https://d1.awsstatic.com/whitepapers/IPv6-on-AWS.pdf
 * https://aws.amazon.com/blogs/infrastructure-and-automation/keep-your-aws-resources-when-you-rename-an-aws-cloudformation-stack/
 
+## Dynamodb
+* https://dynobase.dev/dynamodb-locking/
+* https://dynobase.dev/dynamodb-transactions/
+* https://dynobase.dev/dynamodb-nodejs/#read-transaction
+* 
