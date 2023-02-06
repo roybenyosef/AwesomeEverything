@@ -9,6 +9,7 @@
 
 ## Awesome Projects
 * https://github.com/agoragames/leaderboard-python
+* Proxy py: https://pypi.org/project/proxy.py/
 
 ## Awesome Python Libraries
 * Data validation - pydantic - https://pydantic-docs.helpmanual.io/
