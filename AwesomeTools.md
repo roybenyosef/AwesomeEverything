@@ -4,3 +4,6 @@
 
 # Macos tools
 * multiple monitors profile management - https://github.com/jakehilborn/displayplacer
+
+# CLI Tools
+* search tool - https://github.com/BurntSushi/ripgrep
