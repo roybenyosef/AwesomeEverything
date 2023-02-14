@@ -35,6 +35,7 @@
 
 ## Awesome reads
 * Python asterisks - https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
+  * https://peps.python.org/pep-3102/ 
 * [Unlock the 4 Mysteries of self in Python](https://link.medium.com/P96rqnmH44)
 * https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a
 * https://medium.com/better-programming/use-id-to-understand-6-key-concepts-in-python-73e0bbd461ec
