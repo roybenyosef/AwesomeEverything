@@ -1,3 +1,6 @@
+# Construct curation
+* https://constructs.dev/, https://constructs.dev/search?q=&cdk=aws-cdk&cdkver=2&sort=downloadsDesc&offset=0
+
 # Blogs
 * https://www.sentiatechblog.com/decommissioning-as-code-overriding-logical-ids-when-resources-in-a-list-are
 
