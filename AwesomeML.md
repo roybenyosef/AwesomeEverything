@@ -12,4 +12,4 @@
 
 # Tools, etc
 * https://goodsnooze.gumroad.com/l/macwhisper and other tools - mac native whisper api app (transcribe audio)
-* 
+* Rise of the machines: https://www.facebook.com/groups/rotmil
