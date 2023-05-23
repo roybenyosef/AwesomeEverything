@@ -10,7 +10,9 @@
 * self healing code: https://github.com/biobootloader/wolverine
 * Guidance enables you to control modern language models more effectively and efficiently than traditional prompting or chaining: https://github.com/microsoft/guidance
 * curated llm stuff: https://llm.garden/
-* 
+* text to speach etc.
+  * meta's open source: https://github.com/facebookresearch/fairseq/tree/main/examples/mms
+  * open ai: see whisper
 
 # Tools, etc
 * https://goodsnooze.gumroad.com/l/macwhisper and other tools - mac native whisper api app (transcribe audio)
