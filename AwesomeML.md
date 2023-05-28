@@ -14,6 +14,7 @@
   * meta's open source: https://github.com/facebookresearch/fairseq/tree/main/examples/mms
   * open ai: see whisper
 * Add you data to chatgpt with [llama-index](https://github.com/jerryjliu/llama_index): https://internet-israel.com/?p=10494&preview=1&_ppp=d159e0a4b6
+* https://flowgpt.com/ - vast collection of prompts
 
 # Tools, etc
 * https://goodsnooze.gumroad.com/l/macwhisper and other tools - mac native whisper api app (transcribe audio)
