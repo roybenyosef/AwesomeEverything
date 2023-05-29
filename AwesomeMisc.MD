@@ -40,3 +40,6 @@
 
 ## Awesome git
 * awesome aliases: https://gist.github.com/natescode/aed203bb2826628993a67dfadb22302a
+
+## Search
+* calc, don't search: ttps://www.wolframalpha.com/
