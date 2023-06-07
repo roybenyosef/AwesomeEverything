@@ -17,6 +17,7 @@
 * Dynamodb blog: https://blog.yugabyte.com/11-things-you-wish-you-knew-before-starting-with-dynamodb
 * CloudFormation ref cheat sheet: https://theburningmonk.com/cloudformation-ref-and-getatt-cheatsheet/
 * AWS IP Ranges: https://ip-ranges.amazonaws.com/ip-ranges.json
+* EventBridge Pipes - connect services - https://dev.to/aws-builders/about-amazon-eventbridge-pipes-32ln
 
 ## Awesome Serverless
 * https://serverlessland.com/
