@@ -18,6 +18,7 @@
 * CloudFormation ref cheat sheet: https://theburningmonk.com/cloudformation-ref-and-getatt-cheatsheet/
 * AWS IP Ranges: https://ip-ranges.amazonaws.com/ip-ranges.json
 * EventBridge Pipes - connect services - https://dev.to/aws-builders/about-amazon-eventbridge-pipes-32ln
+* ec2 instant connect (without a public ip): https://github.com/aidansteele/rdsconn, https://aws.amazon.com/blogs/compute/secure-connectivity-from-public-to-private-introducing-ec2-instance-connect-endpoint-june-13-2023/
 
 ## Awesome Serverless
 * https://serverlessland.com/
