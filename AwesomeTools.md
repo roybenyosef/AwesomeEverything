@@ -7,3 +7,6 @@
 
 # CLI Tools
 * search tool - https://github.com/BurntSushi/ripgrep
+
+# UI
+* https://streamlit.io/ - easily share data apps with a web ui
