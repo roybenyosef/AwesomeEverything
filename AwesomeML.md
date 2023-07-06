@@ -19,6 +19,7 @@
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
 * pgt function calling awesome example: https://youtu.be/XZHKuZaFc3I
 * simple ui for data apps: https://streamlit.io/
+* OpenAI cookbook: https://github.com/openai/openai-cookbook
 
 # Tools, etc
 * https://goodsnooze.gumroad.com/l/macwhisper and other tools - mac native whisper api app (transcribe audio)
