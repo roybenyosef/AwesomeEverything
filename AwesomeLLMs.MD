@@ -18,7 +18,6 @@
 # Tools
 * simple ui for data apps: https://streamlit.io/
 * more ui: https://pypi.org/project/panel/
-* Testing prompts: https://github.com/hegelai/prompttools
 * Guidance enables you to control modern language models more effectively and efficiently than traditional prompting or chaining: https://github.com/microsoft/guidance
 * text to speach etc.
   * meta's open source: https://github.com/facebookresearch/fairseq/tree/main/examples/mms
