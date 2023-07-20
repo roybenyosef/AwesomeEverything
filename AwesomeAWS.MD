@@ -5,6 +5,7 @@
 * aws diagrams with python: https://diagrams.mingrammer.com/docs/getting-started/examples
 * open source tool by aws for "building intuitive, engaging, and inclusive user experiences at scale" https://cloudscape.design/
 * [ai use cases explorer](https://aiexplorer.aws.amazon.com/)
+* instances (ec2, rds, opensearch, elasticcache) pricing comparison - https://instances.vantage.sh/
 
 ## Awesome AWS Projects and Code
 * small utils, scripts, projects: https://github.com/awsbot-labs?tab=repositories
