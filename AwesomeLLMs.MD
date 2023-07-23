@@ -11,8 +11,10 @@
 ## Code interpreter
 * load additional libs: https://til.simonwillison.net/llms/code-interpreter-expansions
 * loaded libraries: https://twitter.com/Gavriel_Cohen/status/1678131137703473153?s=20
+  * https://gist.github.com/altryne/ee461c27391d4c3990f6bfe1d6a33aa2
 * https://twitter.com/aakashg0/status/1677129060055674880?t=7vWu2E-oT4FBwcLIY69eEQ&s=08
 * https://twitter.com/altryne/status/1677951313156636672?t=Bm3gq9NnpCZFLtC33hh3cw&s=08
+* 
 
 # Open Source
 * open source llms: https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
