@@ -1,6 +1,7 @@
 # General
 * curated llm stuff: https://llm.garden/
 * https://flowgpt.com/ - vast collection of prompt
+* https://llmops.space
 
 # OpenAI
 * GPT-4 coding assistant: https://twitter.com/mckaywrigley/status/1644034309253394433?t=xU-HHVP1QGvOpphIuXeBTQ&s=08
