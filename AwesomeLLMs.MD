@@ -34,3 +34,4 @@
 * Add you data to chatgpt with [llama-index](https://github.com/jerryjliu/llama_index): https://internet-israel.com/?p=10494&preview=1&_ppp=d159e0a4b6
 * [simple example](https://internet-israel.com/%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%90%d7%99%d7%a0%d7%98%d7%a8%d7%a0%d7%98/%d7%a1%d7%a4%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%9e%d7%95%d7%93%d7%95%d7%9c%d7%99%d7%9d/%d7%94%d7%95%d7%a1%d7%a4%d7%aa-%d7%99%d7%93%d7%a2-%d7%97%d7%93%d7%a9-%d7%9c-gpt-%d7%a2%d7%9d-llama-index/) of using llama index to add context for chatGPT
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
+* https://ollama.ai/ - Run Llama 2 and other models on macOS. Customize and create your own.
