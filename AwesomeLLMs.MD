@@ -8,6 +8,7 @@
 * GPT-4 coding assistant: https://twitter.com/mckaywrigley/status/1644034309253394433?t=xU-HHVP1QGvOpphIuXeBTQ&s=08
 * pgt function calling awesome example: https://youtu.be/XZHKuZaFc3I
 * OpenAI cookbook: https://github.com/openai/openai-cookbook
+* Microsoft's sample openai chat you can deploy locally/azure: https://github.com/microsoft/sample-app-aoai-chatGPT
 
 ## Code interpreter
 * load additional libs: https://til.simonwillison.net/llms/code-interpreter-expansions
