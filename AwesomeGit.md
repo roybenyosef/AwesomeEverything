@@ -5,3 +5,5 @@ alias.co=checkout
 alias.lg=log --color --graph --pretty=format:"%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset" --abbrev-commit
 alias.st=status
 ```
+
+* Auto --set-upstream: `git config --global --add --bool push.autoSetupRemote true`
