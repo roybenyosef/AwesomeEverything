@@ -13,3 +13,7 @@
 
 # APIs etc.
 * https://pipedream.com
+
+# Jira that doesn't suck
+* https://linear.app/
+* Just use github projects
