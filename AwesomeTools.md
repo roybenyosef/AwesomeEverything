@@ -17,3 +17,7 @@
 # Jira that doesn't suck
 * https://linear.app/
 * Just use github projects
+
+# Free tools
+* https://free-for.dev/?s=08#/?id=tunneling-webrtc-web-socket-servers-and-other-routers
+* 
