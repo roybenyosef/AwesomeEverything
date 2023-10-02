@@ -1,3 +1,5 @@
+* https://github.com/vinta/awesome-python
+
 ## Python hosting etc.
 * https://anvil.works
 
