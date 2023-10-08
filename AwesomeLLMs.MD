@@ -39,3 +39,4 @@
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
 * https://ollama.ai/ - Run Llama 2 and other models on macOS. Customize and create your own.
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
+* API specialized LLM: https://gorilla.cs.berkeley.edu/
