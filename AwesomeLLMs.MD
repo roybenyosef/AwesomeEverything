@@ -20,6 +20,7 @@
 
 # Open Source
 * open source llms: https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
+* https://github.com/pchunduri6/rag-demystified
 
 # Agents
 * LLM agents: https://github.com/Torantulino/Auto-GPT
