@@ -1,5 +1,10 @@
 * https://github.com/vinta/awesome-python
 
+## Python tools, linters
+* ruff - linter, formatter - https://github.com/astral-sh/ruff
+  * ruff can also replace black, isort, most of flake8
+* Ruff + mypy + sonarlint
+
 ## Python hosting etc.
 * https://anvil.works
 
