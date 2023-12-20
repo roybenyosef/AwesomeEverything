@@ -3,6 +3,7 @@
 
 # Blogs
 * https://www.sentiatechblog.com/decommissioning-as-code-overriding-logical-ids-when-resources-in-a-list-are
+* Migrate resources between stacks: https://xebia.com/blog/migrate-resources-across-cdk-stacks/
 
 # CDK Tools
 * https://cloudsnorkel.com/ - cdk github actions runners (among other things)
