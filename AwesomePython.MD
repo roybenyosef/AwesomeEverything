@@ -1,5 +1,8 @@
 * https://github.com/vinta/awesome-python
 
+## Blog Posts
+* utcnow deprecation in 3.12: https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated
+
 ## Python tools, linters
 * ruff - linter, formatter - https://github.com/astral-sh/ruff
   * ruff can also replace black, isort, most of flake8
