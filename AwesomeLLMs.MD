@@ -3,6 +3,7 @@
 * https://flowgpt.com/ - vast collection of prompt
 * https://llmops.space
 * prompting extensive guide - https://www.promptingguide.ai/techniques/rag
+* better prompting: https://github.com/microsoft/promptbase, https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/
 
 # Papers
 * Compress prompts - paper by MS: https://github.com/microsoft/LLMLingua
