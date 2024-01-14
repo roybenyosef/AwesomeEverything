@@ -25,3 +25,6 @@
 # Free tools
 * https://free-for.dev/?s=08#/?id=tunneling-webrtc-web-socket-servers-and-other-routers
 * 
+
+# OCR
+* https://github.com/VikParuchuri/surya - Surya is a multilingual document OCR toolkit
