@@ -36,6 +36,7 @@
 * self healing code: https://github.com/biobootloader/wolverine
 
 # Tools
+* LLMstudio prompt engineering studio - https://github.com/TensorOpsAI/LLMstudio
 * Let language models run code on your computer: https://github.com/KillianLucas/open-interpreter/
 * simple ui for data apps: https://streamlit.io/
 * more ui: https://pypi.org/project/panel/
