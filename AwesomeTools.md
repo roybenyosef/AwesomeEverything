@@ -14,6 +14,7 @@
 
 # UI
 * https://streamlit.io/ - easily share data apps with a web ui
+* https://www.gradio.app/ - similar to streamlit
 
 # APIs etc.
 * https://pipedream.com
