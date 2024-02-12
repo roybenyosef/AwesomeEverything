@@ -46,6 +46,7 @@
 * create functions dynamically: https://blog.finxter.com/how-to-dynamically-create-a-function-in-python/
 * bytes-string conversion discussion: https://discuss.python.org/t/converting-integer-to-byte-string-problem-in-python-3/5058/5
 * built in diff tools: https://docs.python.org/3.8/library/difflib.html
+* web ui automation with playwright: https://github.com/nirtal85/Playwright-Python-Example
 
 ## Awesome reads
 * Python asterisks - https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
