@@ -57,3 +57,9 @@
 # Security
 * https://github.com/llm-attacks/llm-attacks
   * https://llm-attacks.org/
+
+# Find ML/AI startups
+* https://genai.tlv.partners/
+* https://app.dealroom.co/lists/33530
+* https://theresanaiforthat.com
+* 
