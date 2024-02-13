@@ -29,3 +29,6 @@
 
 # OCR
 * https://github.com/VikParuchuri/surya - Surya is a multilingual document OCR toolkit
+
+# Audio
+* transcribe in any(?) langauge - https://github.com/thewh1teagle/vibe
