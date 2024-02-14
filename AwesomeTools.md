@@ -32,3 +32,7 @@
 
 # Audio
 * transcribe in any(?) langauge - https://github.com/thewh1teagle/vibe
+
+# Postman alternatives
+* https://github.com/usebruno/bruno
+* https://github.com/SmartBear/soapui
