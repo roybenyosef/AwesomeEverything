@@ -4,7 +4,7 @@
 
 * Fig adds VSCode-style autocomplete to your existing terminal. https://fig.io/
 * https://tailscale.com/ - zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.
-* 
+* magika - File detection OSS by google: https://github.com/google/magika
 
 # Macos tools
 * multiple monitors profile management - https://github.com/jakehilborn/displayplacer
