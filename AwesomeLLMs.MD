@@ -1,3 +1,6 @@
+# services/projects
+* https://www.floom.ai/
+
 # Videos, Channels
 * TensorOps - many llm stuff - https://www.youtube.com/channel/UCKJ1iGR9OwIDo8wSWcrMcXg
 * Andrej Karpathy - https://www.youtube.com/@AndrejKarpathy/videos
