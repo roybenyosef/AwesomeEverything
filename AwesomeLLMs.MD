@@ -1,3 +1,6 @@
+# Libraries etc.
+* https://github.com/traceloop/openllmetry
+
 # services/projects
 * https://www.floom.ai/
 
