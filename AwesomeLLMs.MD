@@ -15,7 +15,9 @@
 * better prompting: https://github.com/microsoft/promptbase, https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/
 
 # Prompt Engineering
-* prompting extensive guide - https://www.promptingguide.ai/techniques/rag
+* https://www.promptingguide.ai
+  * https://www.promptingguide.ai/techniques/react
+  * prompting extensive guide - https://www.promptingguide.ai/techniques/rag
 * prompt eng. extensive guides, by model: https://www.promptingguide.ai/
 
 # Papers
