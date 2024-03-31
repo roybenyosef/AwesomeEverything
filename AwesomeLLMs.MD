@@ -71,3 +71,7 @@
 * https://app.dealroom.co/lists/33530
 * https://theresanaiforthat.com
 * 
+
+# Models
+* The bloke quantize many oss models
+  * https://twitter.com/simonw/status/1769795115801874907?t=bUhTQ2HNi24M3qIs0cN3pg&s=08
