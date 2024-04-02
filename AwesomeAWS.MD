@@ -95,3 +95,7 @@
 * https://dynobase.dev/dynamodb-transactions/
 * https://dynobase.dev/dynamodb-nodejs/#read-transaction
 * 
+
+
+## Tips
+* if you have sigv4 then in a ddos - you don't pay for failed sigv4 calls
