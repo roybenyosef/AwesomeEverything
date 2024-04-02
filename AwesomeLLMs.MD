@@ -4,6 +4,9 @@
 # services/projects
 * https://www.floom.ai/
 
+# Talks
+* building an AI search engine with gen AI: https://www.youtube.com/watch?v=NpQJfNXqREA&t=1s&pp=ygUMc2hhaSBhbG9uIGFp
+
 # Videos, Channels
 * TensorOps - many llm stuff - https://www.youtube.com/channel/UCKJ1iGR9OwIDo8wSWcrMcXg
 * Andrej Karpathy - https://www.youtube.com/@AndrejKarpathy/videos
