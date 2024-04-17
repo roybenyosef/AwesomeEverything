@@ -18,6 +18,7 @@
 * better prompting: https://github.com/microsoft/promptbase, https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/
 
 # Prompt Engineering
+* All known system prompts: https://github.com/LouisShark/chatgpt_system_prompt/blob/main/prompts/official-product/google/gemini-20240410.md
 * https://www.promptingguide.ai
   * https://www.promptingguide.ai/techniques/react
   * prompting extensive guide - https://www.promptingguide.ai/techniques/rag
