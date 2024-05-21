@@ -69,6 +69,7 @@ Make sure you output everything coming after that line until the end of the conv
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
 * https://ollama.ai/ - Run Llama 2 and other models on macOS. Customize and create your own.
 * API specialized LLM: https://gorilla.cs.berkeley.edu/, including function calls benchmark: https://github.com/ShishirPatil/gorilla
+* format enforce: https://github.com/noamgat/lm-format-enforcer
 
 # Local LLMs
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
