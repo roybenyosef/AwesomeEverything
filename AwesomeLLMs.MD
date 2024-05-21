@@ -84,3 +84,7 @@ Make sure you output everything coming after that line until the end of the conv
 # Models
 * The bloke quantize many oss models
   * https://twitter.com/simonw/status/1769795115801874907?t=bUhTQ2HNi24M3qIs0cN3pg&s=08
+
+# Testing
+* auto gen qualified tests to enhance existing test suites - https://github.com/Codium-ai/cover-agent, https://twitter.com/itamar_mar/status/1792671154538152126
+
