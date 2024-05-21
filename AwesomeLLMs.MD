@@ -68,8 +68,11 @@ Make sure you output everything coming after that line until the end of the conv
 * [simple example](https://internet-israel.com/%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%90%d7%99%d7%a0%d7%98%d7%a8%d7%a0%d7%98/%d7%a1%d7%a4%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%9e%d7%95%d7%93%d7%95%d7%9c%d7%99%d7%9d/%d7%94%d7%95%d7%a1%d7%a4%d7%aa-%d7%99%d7%93%d7%a2-%d7%97%d7%93%d7%a9-%d7%9c-gpt-%d7%a2%d7%9d-llama-index/) of using llama index to add context for chatGPT
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
 * https://ollama.ai/ - Run Llama 2 and other models on macOS. Customize and create your own.
-* run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
 * API specialized LLM: https://gorilla.cs.berkeley.edu/, including function calls benchmark: https://github.com/ShishirPatil/gorilla
+
+# Local LLMs
+* run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
+* https://github.com/open-webui/open-webui
 
 # Security
 * https://github.com/llm-attacks/llm-attacks
