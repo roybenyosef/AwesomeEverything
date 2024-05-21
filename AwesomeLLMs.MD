@@ -1,6 +1,9 @@
 # General
 * Llm.org.il
 
+# Frameworks
+* one interface for all llm services: https://github.com/BerriAI/litellm
+
 # Libraries etc.
 * https://github.com/traceloop/openllmetry
 
