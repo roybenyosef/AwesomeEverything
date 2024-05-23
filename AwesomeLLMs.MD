@@ -1,11 +1,18 @@
 # General
 * Llm.org.il
 
+# Frontends
+* https://github.com/open-webui/open-webui (formerly ollam-webui)
+* https://github.com/cohere-ai/cohere-toolkit (not just frontend)
+* https://github.com/mckaywrigley/chatbot-ui
+* https://github.com/huggingface/chat-ui
+
 # Frameworks
 * one interface for all llm services: https://github.com/BerriAI/litellm
 
 # Libraries etc.
 * https://github.com/traceloop/openllmetry
+* https://github.com/cohere-ai/cohere-toolkit - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 
 # services/projects
 * https://www.floom.ai/
