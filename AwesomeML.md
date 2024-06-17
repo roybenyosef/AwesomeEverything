@@ -1,3 +1,6 @@
+# Learning Sources
+* A huge, comprehensive source for anything ML: https://oricohen.gitbook.io/machine-and-deep-learning-compendium
+
 # Image Generators
 
 * DALL-E Open source alternative: https://github.com/CompVis/stable-diffusion
