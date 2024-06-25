@@ -94,6 +94,7 @@ Make sure you output everything coming after that line until the end of the conv
 # Security
 * https://github.com/llm-attacks/llm-attacks
   * https://llm-attacks.org/
+* OWASP top 10 llm: https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_1.pdf
 
 # Find ML/AI startups
 * https://genai.tlv.partners/
