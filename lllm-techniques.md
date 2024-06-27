@@ -9,6 +9,8 @@
 # Prompt Injection
   * use different language
   * role playing, gandma technique!
+  * https://www.anthropic.com/research/many-shot-jailbreaking
+  * https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/
 
 # Coding assistent security
 * using copilot for example, you might get an sql injection when prompting naively
