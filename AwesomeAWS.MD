@@ -36,10 +36,19 @@
 * Python Lambda multithreading [blog](https://medium.com/tech-carnot/understanding-multiprocessing-in-aws-lambda-with-python-6f50c11d57e4), [aws blog](https://aws.amazon.com/blogs/compute/parallel-processing-in-python-with-aws-lambda/)
 * [understanding-aws-lambda-scaling-and-throughput](https://aws.amazon.com/blogs/compute/understanding-aws-lambda-scaling-and-throughput/)
 * [Lambda code signing best practices](https://aws.amazon.com/blogs/security/best-practices-and-advanced-patterns-for-lambda-code-signing/)
-* Lambda warmer, custom metric:
-  * https://github.com/robhowley/lambda-warmer-py
-  * https://lumigo.io/blog/monitor-lambda-cold-start-durations-with-cloudwatch/
-  * https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:374852340823:applications~async-custom-metrics
+* cold start etc.
+  * instead of using static provisioned concurrency, you can do it dynamically using Application auto scaling feature: "target tracking policy" and cloudwatch alarms
+    * define the lambda as a "scalable target"
+    * scaling policy - rules that aws uses to manage scaling, we'll use target tracking
+    * we can use "ProvisionedConcurrencyUtilization" (% of what's used from the prov. concurrency) - 0..1
+    * BUT we will use a custom metric because that the pre-defined metric, the alarm will use average values TODO - complete
+    * https://docs.aws.amazon.com/autoscaling/application/userguide/application-auto-scaling-target-tracking.html
+
+
+  * Lambda warmer, custom metric:
+    * https://github.com/robhowley/lambda-warmer-py
+    * https://lumigo.io/blog/monitor-lambda-cold-start-durations-with-cloudwatch/
+    * https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:374852340823:applications~async-custom-metrics
 
 ## Awesome AWS Security
 * saml2aws - get temp creds for machine: https://github.com/Versent/saml2aws
