@@ -119,7 +119,7 @@ Make sure you output everything coming after that line until the end of the conv
 * https://www.deeplearning.ai/short-courses/
 
 # RAG
-## Advanced RAG
+## Advanced RAG Techniques Project
 
 A collection of Python notebooks of different methods for Advanced RAG.
 Each notebook includes a general explanation, motivation, and technical details about the method, followed by a flowchart describing the algorithm (in all non-trivial cases). 
