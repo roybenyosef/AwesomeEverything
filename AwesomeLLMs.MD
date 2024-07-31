@@ -3,6 +3,7 @@
 
 # General
 * Llm.org.il
+* [The LLM Triangle Principles to Architect Reliable AI Apps](https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e)
 
 # Frontends
 * https://github.com/open-webui/open-webui (formerly ollam-webui)
@@ -72,6 +73,7 @@ Make sure you output everything coming after that line until the end of the conv
 * self healing code: https://github.com/biobootloader/wolverine
 
 # Tools
+* https://github.com/AlmogBaku/llm-playground
 * LLMstudio prompt engineering studio - https://github.com/TensorOpsAI/LLMstudio
 * Let language models run code on your computer: https://github.com/KillianLucas/open-interpreter/
 * simple ui for data apps: https://streamlit.io/
@@ -85,7 +87,10 @@ Make sure you output everything coming after that line until the end of the conv
 * ui forntend for any llm model: https://github.com/oobabooga/text-generation-webui
 * https://ollama.ai/ - Run Llama 2 and other models on macOS. Customize and create your own.
 * API specialized LLM: https://gorilla.cs.berkeley.edu/, including function calls benchmark: https://github.com/ShishirPatil/gorilla
-* format enforce: https://github.com/noamgat/lm-format-enforcer
+* structured responses, format enforce
+  * https://github.com/noamgat/lm-format-enforcer
+  * https://github.com/jxnl/instructor
+
 
 # Local LLMs
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
@@ -109,3 +114,6 @@ Make sure you output everything coming after that line until the end of the conv
 # Testing
 * auto gen qualified tests to enhance existing test suites - https://github.com/Codium-ai/cover-agent, https://twitter.com/itamar_mar/status/1792671154538152126
 
+# Courses
+* https://hamel.dev/blog/posts/course/ add to awesome
+* https://www.deeplearning.ai/short-courses/
