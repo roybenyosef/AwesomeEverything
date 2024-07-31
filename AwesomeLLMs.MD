@@ -117,3 +117,37 @@ Make sure you output everything coming after that line until the end of the conv
 # Courses
 * https://hamel.dev/blog/posts/course/ add to awesome
 * https://www.deeplearning.ai/short-courses/
+
+# RAG
+## Advanced RAG
+
+A collection of Python notebooks of different methods for Advanced RAG.
+Each notebook includes a general explanation, motivation, and technical details about the method, followed by a flowchart describing the algorithm (in all non-trivial cases). 
+Then, the code is divided chronologically according to the solution, with full documentation, and finally, a usage example.
+Except for the indexing itself (and except for specific cases), everything is implemented algorithmically in the code without using existing libraries, to provide maximum control and intuition for the reader.
+The methods that are currently available in the project are:
+
+1)	Simple RAG
+2)	Choose Chunk Size
+3)	Context Enrichment
+4)	Fusion Retrieval
+5)	Intelligent Reranking
+6)	Query Transformations
+7)	Hierarchical Indices
+8)	Hypothetical Documents Embedding (HyDe)
+9)	Semantic Chunking
+10)	Contextual Compression
+11)	Explainable Retrieval
+12)	Retrieval with Feedback Loops
+13)	Adaptive Retrieval
+
+In addition, adding basic code for evaluation based on DeepEval
+
+Will add soon:
+•	Graph RAG
+•	RAPTOR
+•	Ensemble Retrieval
+•	Multi-modal Retrival
+
+https://github.com/NirDiamant/RAG_Techniques
+
