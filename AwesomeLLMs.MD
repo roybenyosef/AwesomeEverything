@@ -157,3 +157,12 @@ Will add soon:
 
 https://github.com/NirDiamant/RAG_Techniques
 
+# Translations
+
+## Arabic translation tool
+* https://guymorlan-levanti-en-ar.hf.space/, https://guymorlan-levanti-he-ar.hf.space/
+* model, data: https://huggingface.co/datasets/guymorlan/levanti
+* https://levantitranslate.com/
+* https://www.linkedin.com/posts/guy-mor-lan-2257b7197_nlp-arabicnlp-hebrewnlp-activity-7218289448470405121-F4y9/
+
+
