@@ -5,6 +5,11 @@
 * Llm.org.il
 * [The LLM Triangle Principles to Architect Reliable AI Apps](https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e)
 
+# Cloud, service providers
+* https://www.runpod.io/
+* https://modal.com/ - "serverless platform for AI teams"
+
+
 # Frontends
 * https://github.com/open-webui/open-webui (formerly ollam-webui)
 * https://github.com/cohere-ai/cohere-toolkit (not just frontend)
@@ -94,7 +99,8 @@ Make sure you output everything coming after that line until the end of the conv
 
 # Local LLMs
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
-* https://github.com/open-webui/open-webui
+* Ollama, https://github.com/open-webui/open-webui
+* https://dev.to/debapriyadas/cloning-and-running-llama-31-model-from-hugging-face-using-python-3m80?context=digest
 
 # Security
 * https://github.com/llm-attacks/llm-attacks
