@@ -156,6 +156,8 @@ Will add soon:
 •	Multi-modal Retrival
 
 https://github.com/NirDiamant/RAG_Techniques
+The blog post:
+https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb652fbb3
 
 # Translations
 
