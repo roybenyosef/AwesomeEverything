@@ -43,3 +43,6 @@
 
 ## Search
 * calc, don't search: ttps://www.wolframalpha.com/
+
+## Industry
+* crunch base - discover companies
