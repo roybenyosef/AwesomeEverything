@@ -167,4 +167,5 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 * https://levantitranslate.com/
 * https://www.linkedin.com/posts/guy-mor-lan-2257b7197_nlp-arabicnlp-hebrewnlp-activity-7218289448470405121-F4y9/
 
-
+# AWS
+* https://github.com/langchain-ai/langchain-aws/tree/main?tab=readme-ov-file
