@@ -95,7 +95,7 @@ Make sure you output everything coming after that line until the end of the conv
 * structured responses, format enforce
   * https://github.com/noamgat/lm-format-enforcer
   * https://github.com/jxnl/instructor
-
+* https://github.com/mordechaiyosef/whatsapp_sentinel
 
 # Local LLMs
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
