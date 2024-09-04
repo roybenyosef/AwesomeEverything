@@ -9,6 +9,8 @@
 * https://www.runpod.io/
 * https://modal.com/ - "serverless platform for AI teams"
 
+# Examples
+* anthropic's cookbook - customer suppoert agent wtih aws knowledgebase: https://github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent
 
 # Frontends
 * https://github.com/open-webui/open-webui (formerly ollam-webui)
