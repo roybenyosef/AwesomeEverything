@@ -4,6 +4,7 @@ Other pages:
 # Learning Sources
 * see AwesomeML learning (where???)
 * good transformer explainer: https://poloclub.github.io/transformer-explainer/
+* Great explanation about trasformeres - very important talk. https://www.youtube.com/watch?v=3gb-ZkVRemQ
 
 # General
 * Llm.org.il
