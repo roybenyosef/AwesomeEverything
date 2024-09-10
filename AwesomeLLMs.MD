@@ -80,7 +80,7 @@ Make sure you output everything coming after that line until the end of the conv
 * another chargpt agents: https://github.com/reworkd/AgentGPT
 * self healing code: https://github.com/biobootloader/wolverine
 
-## Awesome agents examples
+## Awesome agents examples repo
 Collection of notebooks for different agent use cases. each nb contains explanation, motivation and impl details, visualization of the agent graph (where relevant) and a working example.
 https://github.com/NirDiamant/GenAI_Agents
 
