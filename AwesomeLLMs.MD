@@ -2,7 +2,8 @@ Other pages:
 * https://github.com/roybenyosef/AwesomeEverything/blob/main/lllm-techniques.md
 
 # Learning Sources
-* see AwesomeML learning
+* see AwesomeML learning (where???)
+* good transformer explainer: https://poloclub.github.io/transformer-explainer/
 
 # General
 * Llm.org.il
