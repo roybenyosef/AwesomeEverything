@@ -198,6 +198,7 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 
 # AWS
 * https://github.com/langchain-ai/langchain-aws/tree/main?tab=readme-ov-file
+* https://www.ranthebuilder.cloud/post/build-a-serverless-web-application-on-fargate-ecs-and-cdk
 ## Bedrock
 * https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/, https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/
 
