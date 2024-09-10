@@ -196,3 +196,7 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 ## Bedrock
 * https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/, https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/
 
+# Vector DBs
+* sqlite vector bd: https://github.com/asg017/sqlite-vec
+
+
