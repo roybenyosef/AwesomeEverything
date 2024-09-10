@@ -1,3 +1,6 @@
+Other pages:
+* https://github.com/roybenyosef/AwesomeEverything/blob/main/lllm-techniques.md
+
 # Learning Sources
 * see AwesomeML learning
 
