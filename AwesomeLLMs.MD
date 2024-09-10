@@ -11,6 +11,7 @@
 
 # Examples
 * anthropic's cookbook - customer suppoert agent wtih aws knowledgebase: https://github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent
+* 
 
 # Frontends
 * https://github.com/open-webui/open-webui (formerly ollam-webui)
@@ -171,3 +172,6 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 
 # AWS
 * https://github.com/langchain-ai/langchain-aws/tree/main?tab=readme-ov-file
+## Bedrock
+* https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/, https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/
+
