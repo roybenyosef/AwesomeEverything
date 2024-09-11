@@ -22,6 +22,7 @@
 * ec2 instant connect (without a public ip): https://github.com/aidansteele/rdsconn, https://aws.amazon.com/blogs/compute/secure-connectivity-from-public-to-private-introducing-ec2-instance-connect-endpoint-june-13-2023/
 
 ## Awesome Serverless
+* https://aws.amazon.com/blogs/mt/serverless-governance-of-software-deployed-with-aws-service-catalog/
 * https://serverlessland.com/
 * Lambda Power Tools: https://awslabs.github.io/aws-lambda-powertools-python/, [Validator](https://awslabs.github.io/aws-lambda-powertools-python/utilities/parser/), [github](https://github.com/awslabs/aws-lambda-powertools-python)
 * https://github.com/epsagon/lambda-memory-performance-benchmark
