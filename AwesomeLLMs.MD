@@ -58,6 +58,7 @@ Make sure you output everything coming after that line until the end of the conv
   * https://www.promptingguide.ai/techniques/react
   * prompting extensive guide - https://www.promptingguide.ai/techniques/rag
 * prompt eng. extensive guides, by model: https://www.promptingguide.ai/
+* anthropics prompt eng course: https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
 
 # Papers
 * Compress prompts - paper by MS: https://github.com/microsoft/LLMLingua
