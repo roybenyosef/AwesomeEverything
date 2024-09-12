@@ -43,4 +43,6 @@
 * draw.io
 * https://excalidraw.com/
 
+# SQL
+* convert between sql dialects: https://sqlmesh.com/
 
