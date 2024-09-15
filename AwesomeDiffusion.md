@@ -8,3 +8,5 @@
 
 # Tools
 * https://www.freepik.com/ - expand images
+* fine tune on your own images: https://fal.ai/models/fal-ai/flux-lora-general-training
+* 
