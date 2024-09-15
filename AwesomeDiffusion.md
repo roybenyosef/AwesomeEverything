@@ -5,3 +5,6 @@
   * https://github.com/comfyanonymous/ComfyUI
   * https://www.youtube.com/watch?v=DBXvGGc4jeM
 * https://www.felixsanz.dev/articles/ultimate-guide-to-optimizing-stable-diffusion-xl
+
+# Tools
+* https://www.freepik.com/ - expand images
