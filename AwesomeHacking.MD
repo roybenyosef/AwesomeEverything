@@ -5,4 +5,5 @@
 * Beautiful Soup library for scraping
 * Pyperclip - clipboard manipulator https://pypi.org/project/pyperclip/
 * Java serialization hacking for running code - YSoSerial, also for .net - YSoSerial.net
-* 
+* detect stegano-hidden data in PNG & BMP: https://github.com/zed-0xff/zsteg
+* read file metadata: ExifTool, mediainfo
