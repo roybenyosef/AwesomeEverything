@@ -8,6 +8,8 @@
 
 # Tools
 * https://www.freepik.com/ - expand images
+ * (FLUX AI on FREEPIK([https://link.mail.beehiiv.com/ss/c/u001.nk4qDcNtx0o7ZcXaSg5zuNGchgT8L4kg2f_ThDfLwmk8Or8SWjnIBl5Dxga5o8VN_8noC7ro7H0u3rGZMo1KSkeidf7khAosni7Aiuu0jAWjY_K7lZA8Z8Gv0X5eN434qzzc_xLrVu0vK0SJHzJTF_mplVVYPGKPiJm9p2adCs6l-zMW5eE7o2ISSGeBJBtiHXQ2IGl5x1RBDZn9vB-uRFc6REMeLAyRTVu6Rbvjqc2GHbIOT]- Create realistic images which will make you question reality. 
+* Kling 1.5 - Generate videos up to 2 minutes long with a smooth frame rate of 30 fps.
 * fine tune on your own images: https://fal.ai/models/fal-ai/flux-lora-general-training
 
 # Techniques
