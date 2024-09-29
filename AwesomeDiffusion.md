@@ -21,7 +21,6 @@ Play with the different parameters it offers and write a descriptive prompt for 
 Click "Generate" and refine as needed
 Pro tip: Adjust the "timestep to start inserting ID" parameter to balance fidelity and creativity.
 * Edit images in real-time with Krea and FLUX. Krea AI is an AI-powered image editing platform that offers real-time image generation with Flux, allowing users to edit and enhance images on the fly — with a generous free tier.
-
 Step-by-step:
 Sign up or log in to Krea AI (https://www.krea.ai/home) and go to the "Generate" section
 Upload your starting image
