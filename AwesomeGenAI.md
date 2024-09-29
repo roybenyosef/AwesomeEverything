@@ -1,3 +1,7 @@
+# Free services
+* Replicate https://replicate.com/
+* 
+
 # Music
 * https://huggingface.co/m-a-p/ChatMusician
 
