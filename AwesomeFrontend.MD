@@ -5,4 +5,4 @@ on all your users' devices
     * https://zeplin.io/
 * [Hugo](https://gohugo.io/) - framework for building websites 
 * [Netlify](https://www.netlify.com/) - Build, deploy & scale modern web projects
-* 
+* v0: generate ui, ask qs and more: https://v0.dev/chat
