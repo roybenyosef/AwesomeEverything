@@ -50,6 +50,7 @@ Other pages:
 # Prompt Engineering
 * anthropic's salt research to mitigate prompt injection/jailbreak:
   * https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/llm-prompt-engineering-best-practices.pdf (see "salt")
+  * https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/
 * All known system prompts: https://github.com/LouisShark/chatgpt_system_prompt/blob/main/prompts/official-product/google/gemini-20240410.md
 * You can usually get the sys prompt this way: 
 ```
