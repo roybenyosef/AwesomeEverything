@@ -209,4 +209,5 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 # Vector DBs
 * sqlite vector bd: https://github.com/asg017/sqlite-vec
 
-
+# Jailbreaking
+* https://github.com/verazuo/jailbreak_llms
