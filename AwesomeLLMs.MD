@@ -13,6 +13,7 @@ Other pages:
 # Cloud, service providers
 * https://www.runpod.io/
 * https://modal.com/ - "serverless platform for AI teams"
+* https://langfuse.com/ - Open Source LLM Engineering Platform. Traces, evals, prompt management and metrics to debug and improve your LLM application.
 
 # Examples
 * anthropic's cookbook - customer suppoert agent wtih aws knowledgebase: https://github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent
