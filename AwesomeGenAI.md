@@ -4,6 +4,7 @@
 
 # Music
 * https://huggingface.co/m-a-p/ChatMusician
+* https://www.mureka.ai/create, suno, udio
 
 ChatMusician is 🔥
 > Llama 2 pre-trained + fine-tuned further.
