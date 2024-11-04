@@ -11,3 +11,8 @@ ChatMusician is 🔥
 > Beats GPT 4.
 > Can compose well-structured, full-length music conditioned on texts, chords, melodies, motifs, and musical forms.
 > Code, data, model, benchmark - open source - MIT licensed! ⚡
+
+# Transcription, Speach To Text, Text To Speach
+* https://www.ivrit.ai/he/%d7%a2%d7%91%d7%a8%d7%99%d7%9d-%d7%93%d7%91%d7%a8%d7%95-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/
+* https://github.com/NNLP-IL/WhisperLevantineArabic
+  * https://huggingface.co/HebArabNlpProject/whisperLevantine.
