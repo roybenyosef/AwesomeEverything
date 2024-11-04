@@ -16,3 +16,4 @@ ChatMusician is 🔥
 * https://www.ivrit.ai/he/%d7%a2%d7%91%d7%a8%d7%99%d7%9d-%d7%93%d7%91%d7%a8%d7%95-%d7%a2%d7%91%d7%a8%d7%99%d7%aa/
 * https://github.com/NNLP-IL/WhisperLevantineArabic
   * https://huggingface.co/HebArabNlpProject/whisperLevantine.
+  * https://nnlp-il.mafat.ai/#Our-Github
