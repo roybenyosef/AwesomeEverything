@@ -17,7 +17,7 @@ Other pages:
 
 # Examples
 * anthropic's cookbook - customer suppoert agent wtih aws knowledgebase: https://github.com/anthropics/anthropic-quickstarts/tree/main/customer-support-agent
-* 
+* LangGraph: https://github.com/nirbar1985/ai-travel-agent
 
 # Frontends
 * https://github.com/open-webui/open-webui (formerly ollam-webui)
