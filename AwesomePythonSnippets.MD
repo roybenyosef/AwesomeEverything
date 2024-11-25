@@ -74,3 +74,13 @@ import itertools
 list2d = [[1,2,3], [4,5,6], [7], [8,9]]
 merged = list(itertools.chain(*list2d))
 ```
+
+### Count 1s in binary num
+```
+    print(bin(n))
+    count = 0
+    while n:
+        n &= (n - 1)  # Removes the rightmost 1 in each iteration
+        print(bin(n))
+        count += 1
+```
