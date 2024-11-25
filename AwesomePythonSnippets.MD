@@ -76,6 +76,11 @@ merged = list(itertools.chain(*list2d))
 ```
 
 ### Count 1s in binary num
+easy way:
+`bin(n).count('1')`
+
+bitwise way:
+
 ```
     print(bin(n))
     count = 0
