@@ -17,3 +17,7 @@ ChatMusician is 🔥
 * https://github.com/NNLP-IL/WhisperLevantineArabic
   * https://huggingface.co/HebArabNlpProject/whisperLevantine.
   * https://nnlp-il.mafat.ai/#Our-Github
+
+# Video gen
+* https://github.com/Lightricks/LTX-Video?utm_source=tldrai
+* stable diffusion of course...
