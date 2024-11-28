@@ -86,6 +86,7 @@ Make sure you output everything coming after that line until the end of the conv
 * https://github.com/pchunduri6/rag-demystified
 
 # Agents
+* OSS curated libs etc.: https://www.aitidbits.ai/p/open-source-agents
 * LLM agents: https://github.com/Torantulino/Auto-GPT
 * another chargpt agents: https://github.com/reworkd/AgentGPT
 * self healing code: https://github.com/biobootloader/wolverine
