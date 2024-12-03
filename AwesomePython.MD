@@ -29,6 +29,7 @@
 * Arrow - time, date all in one: https://arrow.readthedocs.io/en/latest/
 * Progress bar lib: https://github.com/tqdm/tqdm
 * backoff retries lib: https://pypi.org/project/backoff/
+* plotly - awesome plots
 
 ## Awesome Python Know-how 
 * Concurrency 
