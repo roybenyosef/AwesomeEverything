@@ -12,3 +12,4 @@
 
 # Libraries
 * https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp
+* awesome plots - plotly
