@@ -13,3 +13,6 @@
 # Libraries
 * https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp
 * awesome plots - plotly
+
+# Models, etc.
+* Flair - simple framework for state-of-the-art NLP - https://github.com/flairNLP/flair
