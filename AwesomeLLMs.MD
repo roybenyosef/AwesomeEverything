@@ -27,6 +27,7 @@ Other pages:
 
 # Frameworks
 * one interface for all llm services: https://github.com/BerriAI/litellm
+* https://ai.pydantic.dev - Agent Framework/shim to use Pydantic with LLMs
 
 # Libraries etc.
 * https://github.com/traceloop/openllmetry
