@@ -16,3 +16,7 @@
 
 # Models, etc.
 * Flair - simple framework for state-of-the-art NLP - https://github.com/flairNLP/flair
+
+# IoT
+* [edge impulse](https://edgeimpulse.com/) - manage IoT devices. has free tier - 
+* [Teachable machine](https://teachablemachine.withgoogle.com/) - no code ml training - "Train a computer to recognize your own images, sounds, & poses"
