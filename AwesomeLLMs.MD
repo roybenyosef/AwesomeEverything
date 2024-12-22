@@ -215,3 +215,6 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 
 # Jailbreaking
 * https://github.com/verazuo/jailbreak_llms
+* https://github.com/jplhughes/bon-jailbreaking?utm_source=tldrai
+* https://github.com/cyberark/FuzzyAI
+
