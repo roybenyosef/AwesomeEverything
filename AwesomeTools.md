@@ -1,3 +1,6 @@
+# Streaming, Video
+* streaming service for any clients (with inputs): https://github.com/LizardByte/Sunshine
+
 # Misc
 * online dev tools: https://it-tools.tech/
 * https://archive.md/
