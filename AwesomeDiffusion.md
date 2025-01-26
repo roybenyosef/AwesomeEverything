@@ -6,6 +6,10 @@
   * https://www.youtube.com/watch?v=DBXvGGc4jeM
 * https://www.felixsanz.dev/articles/ultimate-guide-to-optimizing-stable-diffusion-xl
 
+# Image generation with LoRa
+* https://fal.ai/
+* https://www.astria.ai/
+
 # Tools, free serices
 * https://www.freepik.com/ - expand images
  * [FLUX AI on FREEPIK](https://link.mail.beehiiv.com/ss/c/u001.nk4qDcNtx0o7ZcXaSg5zuNGchgT8L4kg2f_ThDfLwmk8Or8SWjnIBl5Dxga5o8VN_8noC7ro7H0u3rGZMo1KSkeidf7khAosni7Aiuu0jAWjY_K7lZA8Z8Gv0X5eN434qzzc_xLrVu0vK0SJHzJTF_mplVVYPGKPiJm9p2adCs6l-zMW5eE7o2ISSGeBJBtiHXQ2IGl5x1RBDZn9vB-uRFc6REMeLAyRTVu6Rbvjqc2GHbIOT)- Create realistic images which will make you question reality. 
