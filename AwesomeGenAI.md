@@ -2,9 +2,10 @@
 * Replicate https://replicate.com/
 * 
 
-# Music
+# Music, Audio
 * https://huggingface.co/m-a-p/ChatMusician
 * https://www.mureka.ai/create, suno, udio
+* Amazing voice cloning - https://www.zyphra.com/post/beta-release-of-zonos-v0-1
 
 ChatMusician is 🔥
 > Llama 2 pre-trained + fine-tuned further.
