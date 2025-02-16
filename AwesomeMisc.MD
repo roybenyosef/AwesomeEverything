@@ -46,3 +46,9 @@
 
 ## Industry
 * crunch base - discover companies
+
+## Misc of Miscs
+* Chess engine - https://stockfishchess.org/
+
+
+
