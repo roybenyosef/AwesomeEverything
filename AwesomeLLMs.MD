@@ -50,6 +50,7 @@ Other pages:
 * better prompting: https://github.com/microsoft/promptbase, https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/
 
 # Prompt Engineering
+* code writing prompting in the thread: https://x.com/mckaywrigley/status/1890153677782229282
 * anthropic's salt research to mitigate prompt injection/jailbreak:
   * https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/llm-prompt-engineering-best-practices.pdf (see "salt")
   * https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/
