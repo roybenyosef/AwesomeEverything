@@ -9,6 +9,7 @@
 # Image generation with LoRa
 * https://fal.ai/
 * https://www.astria.ai/
+* https://huggingface.co/XLabs-AI/flux-lora-collection
 
 # Tools, free serices
 * https://www.freepik.com/ - expand images
