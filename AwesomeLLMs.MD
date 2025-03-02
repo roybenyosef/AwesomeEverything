@@ -117,6 +117,7 @@ current guide:
 14.	Sophisticated Controllable Agent for Complex RAG Tasks 
 
 # Tools
+* Andrew NG agentic document extraction - https://landing.ai/agentic-document-extraction
 * https://github.com/AlmogBaku/llm-playground
 * LLMstudio prompt engineering studio - https://github.com/TensorOpsAI/LLMstudio
 * Let language models run code on your computer: https://github.com/KillianLucas/open-interpreter/
