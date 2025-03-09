@@ -229,3 +229,5 @@ https://medium.com/@nirdiamant21/controllable-agent-for-complex-rag-tasks-bf8cb6
 * https://github.com/jplhughes/bon-jailbreaking
 * https://github.com/cyberark/FuzzyAI
 
+# Tutorials
+* discord bot: https://x.com/josephpollack/status/1898402855825879493
