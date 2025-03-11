@@ -1,3 +1,6 @@
+# Coding assistants
+* qodo-gen - ai for jetbarains and other IDEs: https://www.producthunt.com/posts/qodo-gen?bc=1
+
 # Free services
 * Replicate https://replicate.com/
 * 
