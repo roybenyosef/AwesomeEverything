@@ -144,6 +144,7 @@ current guide:
   * https://github.com/noamgat/lm-format-enforcer
   * https://github.com/jxnl/instructor
 * https://github.com/mordechaiyosef/whatsapp_sentinel
+* whatsapp bot: https://github.com/ilanbenb/wa_llm
 
 # Local LLMs
 * run llama2 on mac: https://simonwillison.net/2023/Aug/1/llama-2-mac/?s=08
