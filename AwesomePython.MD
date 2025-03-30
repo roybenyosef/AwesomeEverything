@@ -41,6 +41,8 @@
 * Logging: https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322
 * UI:
   * https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5
+  * text ui: https://realpython.com/python-textual/
+
 * https://realpython.com/python-data-classes/
 * https://medium.com/better-programming/unlock-the-4-mysteries-of-self-in-python-d1913fbb8e16
 * exec, eval, etc. https://blog.finxter.com/python-exec/
